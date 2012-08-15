@@ -1,9 +1,0 @@
-Package: sixarm-debian-python-packages
-Version: 1.0.6
-Section: python
-Priority: optional
-Architecture: all
-Depends: python, python-central, python-configobj, python-dateutil, python-setuptools, python-paramiko, python-parsedatetime, python-pycurl, python-pyicu, python-pygments, python-pyinotify, python-pysqlite2, python-unit, python-setuptools, python-simplejson, python-support, python-twisted, python-vobject, python-zope.interface, pyqt-tools, pyqt4-dev-tools
-Maintainer: Joel Parker Henderson <joel@sixarm.com>
-Description: Python packages we like to use
- Python packages we like to use together.
